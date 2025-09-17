@@ -6,6 +6,13 @@
   </a>
 </h1>
 
+ <p align="left">
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/I-ParthTripathi?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/I-ParthTripathi?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/I-ParthTripathi?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
+
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - <img width="19" alt="india" src="https://github.com/user-attachments/assets/63e64e4e-0b06-4f2e-96c3-08d4b711aaeb" /> I'ᴍ ғʀᴏᴍ INDIA
 - :mortar_board: Uɴᴅᴇʀɢʀᴀᴅ Sᴛᴜᴅᴇɴᴛ ᴘᴜʀsᴜɪɴɢ ᴍʏ Mᴀᴊᴏʀ ɪɴ Cᴏᴍᴘᴜᴛᴇʀ Sᴄɪᴇɴᴄᴇ 
@@ -47,15 +54,7 @@
 </a>
 </p>
 
-##
-<div align="center">
-	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/holic-x/holic-x/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/adorabled4/adorabled4/output/github-contribution-grid-snake.svg">
-</picture>
+
 
 <br><br>
 
